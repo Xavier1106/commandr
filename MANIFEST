@@ -1,0 +1,4 @@
+setup.py
+commandr/__init__.py
+commandr/commandr.py
+commandr/functools_util.py

@@ -1,0 +1,6 @@
+dist
+.metadata
+.project
+.pydevproject
+*.pyc
+*.swp
